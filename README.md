@@ -1,4 +1,16 @@
 # Evaluation 2023
+Using [home-baked benchmarking suite](https://github.com/d702e20/bench-solver), which takes a CSV of name, model, formula declarations and outputs a CSV with the following details depending on which that apply (e.g. threads for PRISM does not make sense, similarly for search-strategy):
+
+- name, model, formula
+- time\_s
+- threads
+- memory\_MB
+- total\_reported (secs)
+- construction (secs)
+- checking (secs)
+
+
+## Legacy Criterion evaluation
 Using Criterion with input to bench on a case-study (LCGS + one query) while varying worker-threads between 1 and 32.
 Output from Criterion is gathered into folderes for each case-study. Entire stdout and stdin are recorded in {JOBID}.err/.out.
 
