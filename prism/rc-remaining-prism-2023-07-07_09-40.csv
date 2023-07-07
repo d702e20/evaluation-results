@@ -1,0 +1,10 @@
+name,model,formula,time_s,memory_MB,total_reported,construction,checking
+rc5_1,robot_grid/robot_grid_N5.prism,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.props,9.055306108668447,-2884.66796875,8.234,5.253,2.981
+rc5_2,robot_grid/robot_grid_N5.prism,robot_grid/can_r1_get_past_r2_when_helped_TRUE.props,27.18221928924322,-92.8671875,26.383,5.309,21.074
+rc5_3,robot_grid/robot_grid_N5.prism,robot_grid/exist_path_to_targets_wtih_no_crashes_TRUE.props,10.68675297126174,-164.3984375,9.883,5.332,4.551
+rc6_1,robot_grid/robot_grid_N6.prism,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.props,27.225944390520453,-4595.23828125,26.172,17.483,8.689
+rc6_2,robot_grid/robot_grid_N6.prism,robot_grid/can_r1_get_past_r2_when_helped_TRUE.props,103.84820521250367,-2711.140625,102.651,16.719,85.932
+rc6_3,robot_grid/robot_grid_N6.prism,robot_grid/exist_path_to_targets_wtih_no_crashes_TRUE.props,33.90969013981521,0.0,32.513,18.653,13.86
+rc7_1,robot_grid/robot_grid_N7.prism,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.props,74.04905558004975,-3522.79296875,72.386,50.897,21.489
+rc7_2,robot_grid/robot_grid_N7.prism,robot_grid/can_r1_get_past_r2_when_helped_TRUE.props,343.55939151346684,-89.5,341.817,50.952,290.865
+rc7_3,robot_grid/robot_grid_N7.prism,robot_grid/exist_path_to_targets_wtih_no_crashes_TRUE.props,84.03011301346123,-2797.984375,82.426,48.549,33.877
