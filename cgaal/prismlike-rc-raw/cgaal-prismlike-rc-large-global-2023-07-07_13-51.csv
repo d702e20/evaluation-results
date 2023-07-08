@@ -1,0 +1,17 @@
+name,model,formula,threads,time_s,memory_MB,search_strategy
+prismlike_rc5_1,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.json,1,7200.0,-1.0,global
+prismlike_rc5_1,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.json,2,7200.0,-1.0,global
+prismlike_rc5_1,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.json,4,7200.0,-1.0,global
+prismlike_rc5_1,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.json,8,6762.390530172735,7136.30078125,global
+prismlike_rc5_1,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.json,16,5592.45552864112,2993.83203125,global
+prismlike_rc5_1,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.json,32,4972.684868847951,7861.140625,global
+prismlike_rc5_2,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/everyone_starts_home_TRUE.json,1,0.01961657591164112,0.0,global
+prismlike_rc5_2,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/everyone_starts_home_TRUE.json,2,0.020259246230125427,0.0,global
+prismlike_rc5_2,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/everyone_starts_home_TRUE.json,4,0.020265378057956696,0.0,global
+prismlike_rc5_2,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/everyone_starts_home_TRUE.json,8,0.021938804537057877,0.0,global
+prismlike_rc5_2,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/everyone_starts_home_TRUE.json,16,0.022817015647888184,0.0,global
+prismlike_rc5_2,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/everyone_starts_home_TRUE.json,32,0.02820533886551857,0.0,global
+prismlike_rc5_3,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/exist_path_to_targets_with_no_crashes_TRUE.json,1,7200.0,-1.0,global
+prismlike_rc5_3,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/exist_path_to_targets_with_no_crashes_TRUE.json,2,7200.0,-1.0,global
+prismlike_rc5_3,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/exist_path_to_targets_with_no_crashes_TRUE.json,4,7200.0,-1.0,global
+prismlike_rc5_3,robot_grid/prismlike_robot_grid_N5.lcgs,robot_grid/exist_path_to_targets_with_no_crashes_TRUE.json,8,7200.0,-1.0,global
