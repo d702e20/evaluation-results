@@ -9,6 +9,7 @@ Using [home-baked benchmarking suite](https://github.com/d702e20/bench-solver), 
 - construction (secs)
 - checking (secs)
 
+Note that memory-measurements are flawed due to limitations with `ru_maxrss`.
 
 ## Legacy Criterion evaluation
 Using Criterion with input to bench on a case-study (LCGS + one query) while varying worker-threads between 1 and 32.
