@@ -46,6 +46,10 @@ mexican_standoff_5p_1hp_teamwork,mexican_standoff/mexican_standoff_5p_1hp.prism,
 mexican_standoff_5p_3hp_suicide,mexican_standoff/mexican_standoff_5p_3hp.prism,mexican_standoff/can_p1_suicide_FALSE.props,4452.084057772532,0.0,4451.088,4441.041,10.047
 mexican_standoff_5p_3hp_survive,mexican_standoff/mexican_standoff_5p_3hp.prism,mexican_standoff/can_p1_guarantee_to_survive_FALSE.props,4496.428763767704,0.0,4495.408,4469.838,25.57
 mexican_standoff_5p_3hp_teamwork,mexican_standoff/mexican_standoff_5p_3hp.prism,mexican_standoff/can_3_players_guarantee_atleast_one_of_them_survives.props,2402.6873117424548,0.0,2401.642,2375.067,26.575
+mexican_standoff_3p_1hp_survive,mexican_standoff/mexican_standoff_3p_1hp.prism,mexican_standoff/can_p1_guarantee_to_survive_FALSE.props,0,1.2893288638442755,0.063,0.037,0.026
+mexican_standoff_3p_1hp_suicide,mexican_standoff/mexican_standoff_3p_1hp.prism,mexican_standoff/can_p1_suicide_FALSE.props,0,1.3061678912490606,0.064,0.042,0.022
+mexican_standoff_3p_1hp_teamwork,mexican_standoff/mexican_standoff_3p_1hp.prism,mexican_standoff/can_2_players_guarantee_atleast_one_of_them_survives.props,0,1.3109357319772243,0.063,0.039,0.024
+mexican_standoff_3p_3hp_teamwork,mexican_standoff/mexican_standoff_3p_3hp.prism,mexican_standoff/can_2_players_guarantee_atleast_one_of_them_survives.props,0,1.3239892981946468,0.175,0.104,0.071
 rc5_1,robot_grid/robot_grid_N5.prism,robot_grid/can_r1_and_r2_swap_with_help_from_r3_FALSE.props,9.055306108668448,-2884.66796875,8.234,5.253,2.981
 rc5_2,robot_grid/robot_grid_N5.prism,robot_grid/can_r1_get_past_r2_when_helped_TRUE.props,27.18221928924322,-92.8671875,26.383,5.309,21.074
 rc5_3,robot_grid/robot_grid_N5.prism,robot_grid/exist_path_to_targets_wtih_no_crashes_TRUE.props,10.68675297126174,-164.3984375,9.883,5.332,4.551

@@ -1,0 +1,5 @@
+name,model,formula,time_s,total_reported,construction,checking
+mexican_standoff_3p_1hp_survive,mexican_standoff/mexican_standoff_3p_1hp.prism,mexican_standoff/can_p1_guarantee_to_survive_FALSE.props,1.2893288638442755,0.063,0.037,0.026
+mexican_standoff_3p_1hp_suicide,mexican_standoff/mexican_standoff_3p_1hp.prism,mexican_standoff/can_p1_suicide_FALSE.props,1.3061678912490606,0.064,0.042,0.022
+mexican_standoff_3p_1hp_teamwork,mexican_standoff/mexican_standoff_3p_1hp.prism,mexican_standoff/can_2_players_guarantee_atleast_one_of_them_survives.props,1.3109357319772243,0.063,0.039,0.024
+mexican_standoff_3p_3hp_teamwork,mexican_standoff/mexican_standoff_3p_3hp.prism,mexican_standoff/can_2_players_guarantee_atleast_one_of_them_survives.props,1.3239892981946468,0.175,0.104,0.071
